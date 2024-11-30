@@ -10,7 +10,7 @@
 - Gemini
   - รายการบันทึกของการกระทำและเหตุการณ์ต่าง ๆ ที่เกิดขึ้นบนระบบคอมพิวเตอร์
 ----------
- -(https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
+ - (https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
 ----------
 ----------
 - NIST
@@ -21,7 +21,7 @@
 - Gemini
   -บันทึกเหตุการณ์ที่เกิดขึ้นภายในระบบและเครือข่ายขององค์กร
 ----------
--(https://csrc.nist.gov/glossary/term/log)
+- (https://csrc.nist.gov/glossary/term/log)
 ----------
 ----------
 - Myself
