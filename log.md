@@ -1,6 +1,6 @@
--Log
+- Log
 ----------
--CISSP Glossary - Student Guide
+- CISSP Glossary - Student Guide
 
 - A record of actions and events that have taken place on a computer system.
 
@@ -18,15 +18,15 @@
 - ChatGPT
   - การบันทึกหรือรายงานข้อมูลเกี่ยวกับเหตุการณ์ต่าง ๆ ที่เกิดขึ้นในระบบคอมพิวเตอร์หรือเครือข่ายขององค์กร ซึ่งใช้ในการติดตาม ตรวจสอบ และวิเคราะห์เหตุการณ์เหล่านั้น
 
--Gemini
+- Gemini
   -บันทึกเหตุการณ์ที่เกิดขึ้นภายในระบบและเครือข่ายขององค์กร
 ----------
 -(https://csrc.nist.gov/glossary/term/log)
 ----------
 ----------
--Myself
+- Myself
   -Log ตือการบันทึกเหตุการ,การกระทำที่เกิดขึ้นในอุปกรณ์อิเล็กทรอนิกส์
--Sample in Daily life
+- Sample in Daily life
   - Login เข้าใช้งานแอปในมือถือ
   - Logout ออกจากแอปที่ไม่ได้ใช้ในคอมพิวเตอร์
 
