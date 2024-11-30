@@ -1,4 +1,4 @@
 - นายสุรภัค อ่ำสกุล 6530250271
   - ชื่อเล่น ลัคกี้
  
-  - ! [Alt text.](Screenshot_20241130_143508_NisitKU.jpg)
+  - ![Alt text.](Screenshot_20241130_143508_NisitKU.jpg)
